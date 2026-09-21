@@ -1,0 +1,96 @@
+﻿FC,Product,Own,Med/Reg Upcharge,Medium/Regular Meal,Percentage of upcharge,Large Upcharge,Large Meal,Percentage of Upcharge
+McD,Double Sausaage and Egg Muffin,£4.59,+£2.00,£6.59,43.57%,,,
+McD,Sausage and Egg Muffin,£3.79,+£1.90,£5.69,50.13%,,,
+McD,Double Bacon and Egg McMuffin,£4.59,+£2.00,£6.59,43.57%,,,
+McD,Bacon and Egg McMuffin,£3.79,+£1.90,£5.69,50.13%,,,
+McD,Egg and Cheese McMuffin,£3.49,+£1.70,£5.19,48.71%,,,
+McD,Breakfast Wrap with Ketchup,£4.79,+£1.10,£5.89,22.96%,,,
+McD,Breakfast Wrap with Brown Sauce,£4.79,+£1.10,£5.89,22.96%,,,
+McD,Pancakes and Sausage,£4.19,+£1.20,-,-,,,
+McD,Quarter Pounder Deluxe,£6.09,+£2.10,£8.19,34.48%,+£3.00,£9.09,49.26%
+McD,Big Arch with Bacon,£9.39,+£2.10,£11.49,22.36%,+£3.00,£12.39,31.95%
+McD,Big Arch ,£8.69,+£2.20,£10.89,25.32%,+£3.30,£11.99,37.97%
+McD,Big Mac,£5.39,+£2.10,£7.49,38.96%,+£3.00,£8.39,55.66%
+McD,Double Quarter Pounder with Cheese,£6.69,+£2.00,£8.69,29.90%,+£2.90,£9.59,43.35%
+McD,Quarter Pounder with Cheese,£5.39,+£2.10,£7.49,38.96%,+£3.00,£8.39,55.66%
+McD,Cheese and Bacon McCrispy,£6.99,+£1.90,£8.89,27.18%,+£2.80,£9.79,40.06%
+McD,Spicy McCrispy,£5.89,+£1.90,£7.79,32.26%,+£2.80,£8.69,47.54%
+McD,McCrispy,£5.89,+£1.90,£7.79,32.26%,+£2.80,£8.69,47.54%
+McD,McChicken Sandwich,£4.69,+£2.00,£6.69,42.64%,+£2.90,£7.59,61.83%
+McD,Double Filet O Fish,£5.69,+£2.00,£7.69,35.15%,+£2.80,£8.49,49.21%
+McD,Filet O fish,£4.69,+£2.00,£6.69,42.64%,+£2.90,£7.59,61.83%
+McD,Double Cheeseburger,£2.59,+£3.30,£5.89,127.41%,+£4.20,£6.79,162.16%
+McD,Cheeseburger,£1.59,+£3.60,£5.19,226.42%,+£4.50,£6.09,283.02%
+McD,Hamburger,£1.39,-,-,-,-,-,-
+McD,Mayo Chicken,£1.59,+£3.60,£5.19,226.42%,+£4.50,£6.09,283.02%
+McD,McPlant,£5.39,+£2.10,£7.49,38.96%,+£3.00,£8.39,55.66%
+McD,Tikka Chicken Wrap,£4.89,+£1.80,£6.69,36.81%,+£2.60,£7.49,53.17%
+McD,Sweet Chilli chicken Wrap,£4.89,+£1.80,£6.69,36.81%,+£2.60,£7.49,53.17%
+McD,BBQ n Bacon Chicken Wrap,£4.89,+£1.80,£6.69,36.81%,+£2.60,£7.49,53.17%
+McD,Crispy Chicken and Bacon Salad,£3.99,+£1.00,£4.99,25.06%,-,-,-
+McD,Crispy Chicken Salad,£3.49,+£.60,£4.09,17.19%,-,-,-
+BK,Bacon Caesar Angus,£8.49,+£2.50,£10.99,29.45%,+£3.50,£11.99,41.22%
+BK,Bacon Caesar Crispy Chicken,£8.39,+£2.50,£10.89,29.80%,+£3.50,£11.89,41.72%
+BK,Texan BBQ King ,£9.19,+£2.40,£11.59,26.12%,+£3.40,£12.59,37.00%
+BK,Texan BBQ Royal,£8.49,+£2.50,£10.99,29.45%,+£3.50,£11.99,41.22%
+BK,Texan BBQ Double Royale,£9.79,+£2.40,£12.19,24.51%,+£3.40,£13.19,34.73%
+BK,BBQ Steakhouse Angus,£8.29,+£2.50,£10.79,30.16%,+£3.50,£11.79,42.22%
+BK,BBQ Steakhouse Crispy Chicken,£8.19,+£2.50,£10.69,30.53%,+£3.50,£11.69,42.74%
+BK,Whopper,£6.59,+£2.40,£8.99,36.42%,+£3.40,£9.99,51.59%
+BK,Whopper with Bacon and Cheese,£8.29,+£2.50,£10.79,30.16%,+£3.50,£11.79,42.22%
+BK,Double Whopper,£8.39,+£2.50,£10.89,29.80%,+£3.50,£11.89,41.72%
+BK,Double Whopper with Bacon and Cheese,£10.09,+£2.40,£12.49,23.79%,+£3.40,£13.49,33.70%
+BK,Bacon Double Cheese XL,£8.69,+£2.50,£11.19,28.77%,+£3.50,£12.19,40.28%
+BK,Bacon Double Cheeseburger,£5.79,+£2.50,£8.29,43.18%,+£3.50,£9.29,60.45%
+BK,Chicken Royale,£6.49,+£2.50,£8.99,38.52%,+£3.50,£9.99,53.93%
+BK,Chicken Royale Bacon and Cheese,£8.19,+£2.50,£10.69,30.53%,+£3.50,£11.69,42.74%
+BK,Double Chicken Royale,£8.29,+£2.50,£10.79,30.16%,+£3.50,£11.79,42.22%
+BK,Double Chicken Royal Bacon and Cheese,£9.99,+£2.50,£12.49,25.03%,+£3.50,£13.49,35.04%
+BK,Vegan Royale,£6.49,+£2.50,£8.99,38.52%,+£3.50,£9.99,53.93%
+BK,Plant Based Whopper,£6.49,+£2.50,£8.99,38.52%,+£3.50,£9.99,53.93%
+Popeyes,Ghost Pepper Sandwich,£7.49,+£2.30,£9.79,30.71%,+£3.30,£10.79,44.06%
+Popeyes,Ghost pepper Superstack Sandwich,£8.49,+£2.30,£10.79,27.09%,+£3.30,£11.79,38.87%
+Popeyes,Hot honey Sandwich,£7.29,+£2.20,£9.49,30.18%,+£3.20,£10.49,43.90%
+Popeyes,The classic chicken Sandwich,£6.29,+£2.00,£8.29,31.80%,+£3.00,£9.29,47.69%
+Popeyes,The spicy Chicken Sandwich,£6.29,+£2.00,£8.29,31.80%,+£3.00,£9.29,47.69%
+Popeyes,The Delux Chicken Sandwich,£7.29,+£2.20,£9.49,30.18%,+£3.20,£10.49,43.90%
+Popeyes,The Spicy Delux Chicken Sandwich,£7.29,+£2.20,£9.49,30.18%,+£3.20,£10.49,43.90%
+Popeyes,Classic Superstack Sandwich,£7.29,+£2.20,£9.49,30.18%,+£3.20,£10.49,43.90%
+Popeyes,Spicy Superstack Sandwich,£7.29,+£2.20,£9.49,30.18%,+£3.20,£10.49,43.90%
+Popeyes,Hot Honey Superstack Sandwich,£8.29,+£2.20,£10.49,26.54%,+£3.20,£11.49,38.60%
+Popeyes,The Delux Superstack Sandwich,£8.29,+£2.20,£10.49,26.54%,+£3.20,£11.49,38.60%
+Popeyes,The Spicy Delux Superstack Sandwich,£8.29,+£2.20,£10.49,26.54%,+£3.20,£11.49,38.60%
+Popeyes,3 Classic Tenders and Dip,£5.79,+£2.20,£7.99,38.00%,+£3.20,£8.99,55.27%
+Popeyes,5 Classic Tenders and Dip,£7.79,+£2.50,£10.29,32.09%,+£3.50,£11.29,44.93%
+Popeyes,8 Classic Tenders and 2 Dips,£11.99,+£4.50,£16.49,37.53%,+£6.50,£18.49,54.21%
+Popeyes,6 Ghost Pepper Wings,£6.09,+£2.90,£8.99,47.62%,+£3.90,£9.99,64.04%
+Popeyes,8 Ghost Pepper Wings,£7.89,+£2.70,£10.59,34.22%,+£3.70,£11.59,46.89%
+Popeyes,12 Ghost Pepper Wings,£11.09,+£2.90,£13.99,26.15%,+£3.90,£14.99,35.17%
+Popeyes,6 Hot Wings,£5.39,+£2.80,£8.19,51.95%,+£3.80,£9.19,70.50%
+Popeyes,8 Hot Wings,£7.09,+£2.80,£9.89,39.49%,+£3.80,£10.89,53.60%
+Popeyes,10 Hot Wings,£8.79,+£2.80,£11.59,31.85%,+£3.80,£12.59,43.23%
+Popeyes,12 Hot Wings,£10.09,+£2.90,£12.99,28.74%,+£3.90,£13.99,38.65%
+Popeyes,6 Ghost Pepper Boneless,£6.09,+£2.60,£8.69,42.69%,+£3.60,£9.69,59.11%
+Popeyes,8 Ghost Pepper Boneless,£7.89,+£2.60,£10.49,32.95%,+£3.60,£11.49,45.63%
+Popeyes,10 Ghost Pepper Boneless,£9.59,+£2.60,£12.19,27.11%,+£3.60,£13.19,37.54%
+Popeyes,12 Ghost Pepper Boneless,£11.09,+£2.60,£13.69,23.44%,+£3.60,£14.69,32.46%
+Popeyes,6 Boneless and a dip,£5.89,+£2.60,£8.49,44.14%,+£3.60,£9.49,61.12%
+Popeyes,8 Boneless and a dip,£7.59,+£2.60,£10.19,34.26%,+£3.60,£11.19,47.43%
+Popeyes,10 Boneless and a dip,£9.29,+£2.60,£11.89,27.99%,+£3.60,£12.89,38.75%
+Popeyes,12 Boneless and a dip,£10.59,+£2.60,£13.19,24.55%,+£3.60,£14.19,33.99%
+Popeyes,6 Garlic Parm Saucin' Wings,£6.09,+£2.90,£8.99,47.62%,+£3.90,£9.99,64.04%
+Popeyes,8 Garlic Parm Saucin' Wings,£7.89,+£2.70,£10.59,34.22%,+£3.70,£11.59,46.89%
+Popeyes,12 Garlic Parm Saucin' Wings,£11.09,+£2.90,£13.99,26.15%,+£3.90,£14.99,35.17%
+Popeyes,6 Honey BBQ Saucin' Wing,£6.09,+£2.90,£8.99,47.62%,+£3.90,£9.99,64.04%
+Popeyes,8 Honey BBQ Saucin' Wing,£7.89,+£2.70,£10.59,34.22%,+£3.70,£11.59,46.89%
+Popeyes,12 Honey BBQ Saucin' Wing,£11.09,+£2.90,£13.99,26.15%,+£3.90,£14.99,35.17%
+Popeyes,6 Garlic Parm Saucin' Boneless,£6.09,+£2.60,£8.69,42.69%,+£3.60,£9.69,59.11%
+Popeyes,8 Garlic Parm Saucin' Boneless,£7.89,-,-,,-,-,
+Popeyes,10 Garlic Parm Saucin' Boneless,£9.59,+£2.60,£12.19,27.11%,+£3.60,£13.19,37.54%
+Popeyes,12 Garlic Parm Saucin' Boneless,£11.09,+£2.60,£13.69,23.44%,+£3.60,£14.69,32.46%
+Popeyes,6 Honey BBQ Saucin' Boneless,£6.09,+£2.60,£8.69,42.69%,+£3.60,£9.69,59.11%
+Popeyes,8 Honey BBQ Saucin'  Boneless,£7.89,+£2.60,£10.49,32.95%,+£3.60,£11.49,45.63%
+Popeyes,10 Honey BBQ Saucin'  Boneless,£9.59,+£2.60,£12.19,27.11%,+£3.60,£13.19,37.54%
+Popeyes,12 Honey BBQ Saucin'  Boneless,£11.09,+£2.60,£13.69,23.44%,+£3.60,£14.69,32.46%
+Popeyes,Classic Shatter Crunch Wrap,£2.99,+£2.00,£4.99,66.89%,+£3.00,£5.99,100.33%
+Popeyes,Spicy Shatter Crunch Wrap,£2.99,-,-,,-,-,
